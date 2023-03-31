@@ -1,0 +1,33 @@
+#mainContainer {
+    background-color: #FC049E;
+}
+
+.mb-3 {
+    margin: .7rem;
+}
+
+.requestForm {
+    border: solid;
+    width: 35rem;
+    margin: 2rem;
+    padding: 1rem;
+    background-color: #FFCC00;
+}
+
+#submitRequest {
+    margin: 1rem;
+    padding: .2rem;
+    color: white;
+    background-color: black;
+}
+
+.request_denied {
+    margin: 1rem;
+    padding: .2rem;
+    color: white;
+    background-color: black;
+}
+
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
